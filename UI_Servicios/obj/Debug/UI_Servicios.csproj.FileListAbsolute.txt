@@ -1,0 +1,1424 @@
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Interop.WIA.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.ResolveComReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmBusquedaVendedor.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmCargaMasivaUbicaciones.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Clientes_Y_Proveedores.Clientes.frmListadoClientes.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Clientes_Y_Proveedores.Clientes.frmMantCliente.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmMantContactoDireccionCliente.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.fmFacturasAplicarDetraccion.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmCrearDetalleFactura.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmCrearProyecto.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmListarProyectos.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmDetalleEntregaRendir.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmEntregaRendir.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmAperturaCajaChica.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmDetalleMovimiento.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmFacturasConstanciaDetraccRetenc.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmFacturasDetalle.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmListadoFacturaProveedor.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMantDocumentoInterno.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMantFacturaProveedor.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMovimientosCajaChica.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmOpcionesProgMasiva.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmOpcionesReembolso.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmProgramacionPagos.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenCuentasPagarSemanal.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenCuentasPagar.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenEntregasRendir.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenMovCajaChica.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenPresupuestoEjecucion.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmAgregarTipoSubTipo.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmAgregarMarca.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoOrdenesCompra.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoOrdenesServicio.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoProductoPrecios.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoRequerimientos.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListaInventarioAlmacen.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListaProductosSunat.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantAlmacen.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantOrdenCompra.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantOrdenServicio.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantProductoPrecio.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantProductos.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantRequerimientosCompra.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantRequerimientosServicio.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmOpcionDocReferencia.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.FrmRangoFecha.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarGuiaRemisionAlmacen.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarSalidaAlmacen.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarEntradaAlmacen.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptGuiaRemision.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptGuiaRemisionDetalle.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaIngreso.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaIngresoDetalle.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaSalida.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaSalidaDetalle.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenCompras.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenComprask2.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenServicio.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenServicioDetFacilita.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrden_Compra_Detalle.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrden_Compra_Detallek2.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.frmBusquedas.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.frmBusquedaTrabajador.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.FrmSplashCarga.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Accesos.frmCambiarContraseña.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Accesos.frmLogDeAccesos.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantTipoGastoCosto.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantTipoCambio.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantUnidades_Negocio.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmTraerTipoCambio_Fechas.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmAsignacionPermiso.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmListadoUsuario.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantPerfil.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantUsuario.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantVentana.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmOpcionesSistema.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Sistema.frmAcercaSistema.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Sistema.frmHistorialVersiones.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmAlertaVersion.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmCambioPassword.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmConfigConexion.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmLogin.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmPrincipal.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmSplashScreen.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Properties.Resources.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.GenerateResource.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.exe.licenses
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.frmListadoProveedores.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.frmMantProveedor.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.rptFichaProveedor.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptContactosProveedor.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptCuentasBancarias.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptServiciosProveedor.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantTipoSubTipo.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x86\liblept1753.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x86\libtesseract3052.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x64\liblept1753.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x64\libtesseract3052.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.exe.config
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.exe
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BE_Servicios.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\FileHelpers.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\itextsharp.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\JSONRequest.Net.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Identity.Client.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\RestSharp.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Buffers.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Memory.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Net.Http.Formatting.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.ValueTuple.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Tesseract.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WlanCheck.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DA_Servicios.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WebDriver.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.dll.config
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\FileHelpers.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\itextsharp.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Identity.Client.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\RestSharp.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Buffers.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Memory.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Net.Http.Formatting.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.ValueTuple.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DA_Servicios.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WebDriver.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Interop.WIA.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.exe
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x86\liblept1753.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x64\liblept1753.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.exe.config
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.exe
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BE_Servicios.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Ribbon.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.UI.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPdfViewer.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\FileHelpers.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\itextsharp.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\JSONRequest.Net.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\RestSharp.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Buffers.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Memory.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.ValueTuple.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Tesseract.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WlanCheck.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DA_Servicios.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WebDriver.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Core.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Mvvm.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.dll.config
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Ribbon.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.UI.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPdfViewer.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\FileHelpers.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\itextsharp.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\RestSharp.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Buffers.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Memory.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.ValueTuple.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DA_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WebDriver.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Core.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Mvvm.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Xpf.Ribbon.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Xpf.Ribbon.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Xpf.Ribbon.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Interop.WIA.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.AssemblyReference.cache
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Interop.WIA.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.ResolveComReference.cache
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmBusquedaVendedor.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmCargaMasivaUbicaciones.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Clientes_Y_Proveedores.Clientes.frmListadoClientes.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Clientes_Y_Proveedores.Clientes.frmMantCliente.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmMantContactoDireccionCliente.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.frmListadoProveedores.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.frmMantProveedor.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.rptFichaProveedor.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptContactosProveedor.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptCuentasBancarias.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptServiciosProveedor.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.fmFacturasAplicarDetraccion.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmCrearDetalleFactura.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmCrearProyecto.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmListarProyectos.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmDetalleEntregaRendir.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmEntregaRendir.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmAperturaCajaChica.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmDetalleMovimiento.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmFacturasConstanciaDetraccRetenc.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmFacturasDetalle.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmListadoFacturaProveedor.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMantDocumentoInterno.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMantFacturaProveedor.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMovimientosCajaChica.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmOpcionesProgMasiva.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmOpcionesReembolso.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmProgramacionPagos.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenCuentasPagarSemanal.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenCuentasPagar.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenEntregasRendir.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenMovCajaChica.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenPresupuestoEjecucion.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmAgregarTipoSubTipo.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmAgregarMarca.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoOrdenesCompra.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoOrdenesServicio.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoProductoPrecios.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoRequerimientos.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListaInventarioAlmacen.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListaProductosSunat.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantAlmacen.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantOrdenCompra.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantOrdenServicio.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantProductoPrecio.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantProductos.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantRequerimientosCompra.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantRequerimientosServicio.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantTipoSubTipo.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmOpcionDocReferencia.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.FrmRangoFecha.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarGuiaRemisionAlmacen.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarSalidaAlmacen.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarEntradaAlmacen.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptGuiaRemision.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptGuiaRemisionDetalle.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaIngreso.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaIngresoDetalle.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaSalida.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaSalidaDetalle.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenCompras.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenComprask2.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenServicio.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenServicioDetFacilita.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrden_Compra_Detalle.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrden_Compra_Detallek2.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Presupuestos.frmListadoPresupuestos.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.frmBusquedas.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.frmBusquedaTrabajador.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.FrmSplashCarga.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Accesos.frmCambiarContraseña.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Accesos.frmLogDeAccesos.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantTipoGastoCosto.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantTipoCambio.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantUnidades_Negocio.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmTraerTipoCambio_Fechas.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmAsignacionPermiso.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmListadoUsuario.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantPerfil.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantUsuario.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantVentana.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmOpcionesSistema.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Sistema.frmAcercaSistema.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Sistema.frmHistorialVersiones.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmAlertaVersion.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmCambioPassword.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmConfigConexion.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmLogin.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmPrincipal.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmSplashScreen.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Properties.Resources.resources
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.GenerateResource.cache
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.exe.licenses
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.CoreCompileInputs.cache
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.CopyComplete
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.exe
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.AssemblyReference.cache
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Interop.WIA.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.ResolveComReference.cache
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmBusquedaVendedor.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmCargaMasivaUbicaciones.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Clientes_Y_Proveedores.Clientes.frmListadoClientes.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Clientes_Y_Proveedores.Clientes.frmMantCliente.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmMantContactoDireccionCliente.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.frmListadoProveedores.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.frmMantProveedor.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.rptFichaProveedor.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptContactosProveedor.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptCuentasBancarias.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptServiciosProveedor.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.fmFacturasAplicarDetraccion.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmCrearDetalleFactura.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmCrearProyecto.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmListarProyectos.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmDetalleEntregaRendir.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmEntregaRendir.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmAperturaCajaChica.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmDetalleMovimiento.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmFacturasConstanciaDetraccRetenc.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmFacturasDetalle.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmListadoFacturaProveedor.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMantDocumentoInterno.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMantFacturaProveedor.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMovimientosCajaChica.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmOpcionesProgMasiva.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmOpcionesReembolso.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmProgramacionPagos.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenCuentasPagarSemanal.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenCuentasPagar.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenEntregasRendir.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenMovCajaChica.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenPresupuestoEjecucion.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmAgregarTipoSubTipo.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmAgregarMarca.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoOrdenesCompra.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoOrdenesServicio.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoProductoPrecios.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoRequerimientos.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListaInventarioAlmacen.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListaProductosSunat.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantAlmacen.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantOrdenCompra.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantOrdenServicio.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantProductoPrecio.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantProductos.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantRequerimientosCompra.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantRequerimientosServicio.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantTipoSubTipo.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmOpcionDocReferencia.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.FrmRangoFecha.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarGuiaRemisionAlmacen.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarSalidaAlmacen.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarEntradaAlmacen.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptGuiaRemision.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptGuiaRemisionDetalle.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaIngreso.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaIngresoDetalle.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaSalida.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaSalidaDetalle.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenCompras.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenComprask2.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenServicio.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenServicioDetFacilita.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrden_Compra_Detalle.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrden_Compra_Detallek2.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.frmBusquedas.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.frmBusquedaTrabajador.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.FrmSplashCarga.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Accesos.frmCambiarContraseña.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Accesos.frmLogDeAccesos.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantTipoGastoCosto.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantTipoCambio.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantUnidades_Negocio.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmTraerTipoCambio_Fechas.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmAsignacionPermiso.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmListadoUsuario.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantPerfil.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantUsuario.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantVentana.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmOpcionesSistema.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Sistema.frmAcercaSistema.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Sistema.frmHistorialVersiones.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmAlertaVersion.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmCambioPassword.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmConfigConexion.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmLogin.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmPrincipal.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmSplashScreen.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Properties.Resources.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.GenerateResource.cache
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.exe.licenses
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.CoreCompileInputs.cache
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x86\liblept1753.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x64\liblept1753.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.exe.config
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.exe
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BE_Servicios.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Ribbon.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.UI.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPdfViewer.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\FileHelpers.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\itextsharp.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\JSONRequest.Net.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\RestSharp.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Buffers.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Memory.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.ValueTuple.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Tesseract.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WlanCheck.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DA_Servicios.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WebDriver.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Core.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Mvvm.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.dll.config
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Ribbon.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.UI.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPdfViewer.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\FileHelpers.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\itextsharp.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\RestSharp.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Buffers.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Memory.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.ValueTuple.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DA_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WebDriver.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Core.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Mvvm.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Xpf.Ribbon.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Xpf.Ribbon.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Xpf.Ribbon.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Interop.WIA.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.CopyComplete
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.exe
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmListadoAnalisisServicio.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantAnalisisServicio.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantRequerimientoAnalisis.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmBusquedaItems.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantCargos.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmVersionesAnalisis.resources
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmSeleccionPuestos.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x86\liblept1753.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x86\libtesseract3052.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x64\liblept1753.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x64\libtesseract3052.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.exe.config
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.exe
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.pdb
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BE_Servicios.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Ribbon.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPdfViewer.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\FileHelpers.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\itextsharp.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\JSONRequest.Net.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Identity.Client.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\RestSharp.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Buffers.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Memory.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Net.Http.Formatting.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.ValueTuple.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Tesseract.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WlanCheck.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DA_Servicios.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WebDriver.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Core.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.pdb
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.dll.config
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Ribbon.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPdfViewer.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.pdb
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\FileHelpers.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.pdb
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\itextsharp.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Identity.Client.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\RestSharp.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Buffers.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Memory.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Net.Http.Formatting.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.ValueTuple.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DA_Servicios.pdb
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WebDriver.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Core.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Interop.WIA.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.AssemblyReference.cache
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.SuggestedBindingRedirects.cache
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Interop.WIA.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.ResolveComReference.cache
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmBusquedaVendedor.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmCargaMasivaUbicaciones.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Clientes_Y_Proveedores.Clientes.frmListadoClientes.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Clientes_Y_Proveedores.Clientes.frmMantCliente.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmMantContactoDireccionCliente.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.frmListadoProveedores.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.frmMantProveedor.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.rptFichaProveedor.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptContactosProveedor.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptCuentasBancarias.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptServiciosProveedor.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmBusquedaItems.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmSeleccionPuestos.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmVersionesAnalisis.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmListadoAnalisisServicio.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantAnalisisServicio.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantCargos.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantRequerimientoAnalisis.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.fmFacturasAplicarDetraccion.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmCrearDetalleFactura.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmCrearProyecto.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmListarProyectos.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmDetalleEntregaRendir.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmEntregaRendir.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmAperturaCajaChica.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmDetalleMovimiento.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmFacturasConstanciaDetraccRetenc.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmFacturasDetalle.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmListadoFacturaProveedor.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMantDocumentoInterno.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMantFacturaProveedor.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMovimientosCajaChica.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmOpcionesProgMasiva.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmOpcionesReembolso.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmProgramacionPagos.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenCuentasPagarSemanal.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenCuentasPagar.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenEntregasRendir.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenMovCajaChica.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenPresupuestoEjecucion.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmAgregarTipoSubTipo.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmAgregarMarca.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoOrdenesCompra.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoOrdenesServicio.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoProductoPrecios.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoRequerimientos.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListaInventarioAlmacen.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListaProductosSunat.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantAlmacen.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantOrdenCompra.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantOrdenServicio.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantProductoPrecio.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantProductos.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantRequerimientosCompra.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantRequerimientosServicio.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantTipoSubTipo.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmOpcionDocReferencia.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.FrmRangoFecha.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarGuiaRemisionAlmacen.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarSalidaAlmacen.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarEntradaAlmacen.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptGuiaRemision.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptGuiaRemisionDetalle.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaIngreso.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaIngresoDetalle.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaSalida.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaSalidaDetalle.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenCompras.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenComprask2.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenServicio.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenServicioDetFacilita.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrden_Compra_Detalle.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrden_Compra_Detallek2.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.frmBusquedas.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.frmBusquedaTrabajador.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.FrmSplashCarga.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Accesos.frmCambiarContraseña.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Accesos.frmLogDeAccesos.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantTipoGastoCosto.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantTipoCambio.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantUnidades_Negocio.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmTraerTipoCambio_Fechas.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmAsignacionPermiso.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmListadoUsuario.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantPerfil.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantUsuario.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantVentana.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmOpcionesSistema.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Sistema.frmAcercaSistema.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Sistema.frmHistorialVersiones.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmAlertaVersion.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmCambioPassword.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmConfigConexion.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmLogin.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmPrincipal.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmSplashScreen.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Properties.Resources.resources
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.GenerateResource.cache
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.exe.licenses
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.CoreCompileInputs.cache
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.CopyComplete
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.exe
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.pdb
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Spreadsheet.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraSpreadsheet.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Spreadsheet.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraSpreadsheet.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x86\liblept1753.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x86\libtesseract3052.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x64\liblept1753.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\x64\libtesseract3052.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.exe.config
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.exe
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Imperium-Servicios.pdb
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BE_Servicios.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BouncyCastle.Crypto.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Images.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Spreadsheet.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Ribbon.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPdfViewer.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraSpreadsheet.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\FileHelpers.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\itextsharp.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\JSONRequest.Net.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Identity.Client.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\RestSharp.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Buffers.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Memory.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Net.Http.Formatting.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.ValueTuple.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Tesseract.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WlanCheck.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DA_Servicios.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WebDriver.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Core.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BE_Servicios.pdb
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.pdb
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\BL_Servicios.dll.config
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Spreadsheet.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Ribbon.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPdfViewer.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraSpreadsheet.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.pdb
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\ExcelDataReader.DataSet.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\FileHelpers.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.pdb
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\HtmlAgilityPack.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\itextsharp.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Graph.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Microsoft.Identity.Client.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\RestSharp.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Buffers.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Memory.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Net.Http.Formatting.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\System.ValueTuple.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DA_Servicios.pdb
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\WebDriver.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Core.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\UI_Servicios\bin\Debug\Interop.WIA.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.AssemblyReference.cache
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.SuggestedBindingRedirects.cache
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Interop.WIA.dll
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.ResolveComReference.cache
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmBusquedaVendedor.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmCargaMasivaUbicaciones.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Clientes_Y_Proveedores.Clientes.frmListadoClientes.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Clientes_Y_Proveedores.Clientes.frmMantCliente.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Clientes.frmMantContactoDireccionCliente.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.frmListadoProveedores.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.frmMantProveedor.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.rptFichaProveedor.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptContactosProveedor.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptCuentasBancarias.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Clientes_Y_Proveedores.Proveedores.subrptServiciosProveedor.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmBusquedaItems.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmSeleccionPuestos.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmVersionesAnalisis.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmListadoAnalisisServicio.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantAnalisisServicio.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantCargos.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantRequerimientoAnalisis.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.fmFacturasAplicarDetraccion.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmCrearDetalleFactura.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmCrearProyecto.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmListarProyectos.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmDetalleEntregaRendir.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmEntregaRendir.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmAperturaCajaChica.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmDetalleMovimiento.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmFacturasConstanciaDetraccRetenc.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmFacturasDetalle.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmListadoFacturaProveedor.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMantDocumentoInterno.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMantFacturaProveedor.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmMovimientosCajaChica.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmOpcionesProgMasiva.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmOpcionesReembolso.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmProgramacionPagos.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenCuentasPagarSemanal.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenCuentasPagar.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenEntregasRendir.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenMovCajaChica.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cuentas_Pagar.frmResumenPresupuestoEjecucion.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmAgregarTipoSubTipo.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmAgregarMarca.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoOrdenesCompra.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoOrdenesServicio.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoProductoPrecios.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListadoRequerimientos.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListaInventarioAlmacen.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmListaProductosSunat.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantAlmacen.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantOrdenCompra.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantOrdenServicio.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantProductoPrecio.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantProductos.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantRequerimientosCompra.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantRequerimientosServicio.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmMantTipoSubTipo.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmOpcionDocReferencia.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.FrmRangoFecha.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarGuiaRemisionAlmacen.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarSalidaAlmacen.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.frmRegistrarEntradaAlmacen.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptGuiaRemision.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptGuiaRemisionDetalle.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaIngreso.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaIngresoDetalle.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaSalida.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptNotaSalidaDetalle.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenCompras.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenComprask2.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenServicio.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrdenServicioDetFacilita.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrden_Compra_Detalle.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Logistica.rptOrden_Compra_Detallek2.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.frmBusquedas.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.frmBusquedaTrabajador.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Shared.FrmSplashCarga.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Accesos.frmCambiarContraseña.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Accesos.frmLogDeAccesos.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantTipoGastoCosto.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantTipoCambio.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmMantUnidades_Negocio.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuraciones_Maestras.frmTraerTipoCambio_Fechas.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmAsignacionPermiso.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmListadoUsuario.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantPerfil.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantUsuario.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmMantVentana.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Configuracion_del_Sistema.frmOpcionesSistema.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Sistema.frmAcercaSistema.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Sistema.Sistema.frmHistorialVersiones.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmAlertaVersion.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmCambioPassword.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmConfigConexion.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmLogin.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmPrincipal.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.frmSplashScreen.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Properties.Resources.resources
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.GenerateResource.cache
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.exe.licenses
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.CoreCompileInputs.cache
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.CopyComplete
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.exe
+C:\David\IMPERIUM-Servicios\UI_Servicios\obj\Debug\Imperium-Servicios.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Spreadsheet.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Ribbon.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPdfViewer.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraSpreadsheet.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Core.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Spreadsheet.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Ribbon.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPdfViewer.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraSpreadsheet.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Xpf.Core.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.csproj.SuggestedBindingRedirects.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmBusquedaItems.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmSeleccionPuestos.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmVersionesAnalisis.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmListadoAnalisisServicio.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantAnalisisServicio.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantCargos.resources
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\UI_Servicios\obj\Debug\UI_Servicios.Formularios.Cotizaciones.frmMantRequerimientoAnalisis.resources

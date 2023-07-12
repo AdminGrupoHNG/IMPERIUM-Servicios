@@ -1,0 +1,781 @@
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.dll.config
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\netstandard.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.AppContext.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.Concurrent.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.NonGeneric.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.Specialized.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Console.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Data.Common.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Debug.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Process.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Tools.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Drawing.Primitives.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Dynamic.Runtime.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.Calendars.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.Extensions.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Compression.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Pipes.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Expressions.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Parallel.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Queryable.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Http.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.NameResolution.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.NetworkInformation.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Ping.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Primitives.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Requests.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Security.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Sockets.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebSockets.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ObjectModel.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.Extensions.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.Primitives.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.Reader.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.ResourceManager.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.Writer.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Extensions.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Handles.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.InteropServices.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Numerics.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Claims.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Principal.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.SecureString.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.RegularExpressions.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Overlapped.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Tasks.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Thread.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.ThreadPool.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Timer.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ValueTuple.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XDocument.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XmlDocument.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XPath.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BE_Servicios.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DA_Servicios.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.AccessControl.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Principal.Windows.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\WebDriver.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DA_Servicios.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\WebDriver.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.dll.config
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\netstandard.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.AppContext.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Console.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Data.Common.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Compression.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Pipes.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Http.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Ping.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Primitives.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Requests.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Security.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Sockets.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ObjectModel.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.Reader.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.Writer.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Claims.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Principal.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.SecureString.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Thread.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Timer.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ValueTuple.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XPath.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BE_Servicios.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DA_Servicios.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\WebDriver.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DA_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\WebDriver.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.AssemblyReference.cache
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.CoreCompileInputs.cache
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.CopyComplete
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.dll.config
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\netstandard.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.AppContext.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Console.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Data.Common.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Compression.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Pipes.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Http.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Ping.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Primitives.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Requests.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Security.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Sockets.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ObjectModel.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.Reader.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.Writer.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Claims.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Principal.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.SecureString.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Thread.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Timer.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ValueTuple.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XPath.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BE_Servicios.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DA_Servicios.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\WebDriver.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DA_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\WebDriver.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.AssemblyReference.cache
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.CoreCompileInputs.cache
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.CopyComplete
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.pdb
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.dll.config
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.pdb
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\netstandard.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.AppContext.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.Concurrent.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.NonGeneric.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Collections.Specialized.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Console.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Data.Common.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Debug.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Process.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Tools.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Drawing.Primitives.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Dynamic.Runtime.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.Calendars.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Globalization.Extensions.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Compression.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.Pipes.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Expressions.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Parallel.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Linq.Queryable.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Http.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.NameResolution.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.NetworkInformation.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Ping.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Primitives.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Requests.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Security.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.Sockets.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Net.WebSockets.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ObjectModel.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.Extensions.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Reflection.Primitives.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.Reader.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.ResourceManager.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Resources.Writer.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Extensions.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Handles.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.InteropServices.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Numerics.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Claims.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Principal.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.SecureString.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.RegularExpressions.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Overlapped.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Tasks.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Thread.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.ThreadPool.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Threading.Timer.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.ValueTuple.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XDocument.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XmlDocument.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XPath.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BE_Servicios.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DA_Servicios.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.AccessControl.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Principal.Windows.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\WebDriver.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DA_Servicios.pdb
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\WebDriver.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.AssemblyReference.cache
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.CoreCompileInputs.cache
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.CopyComplete
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.dll
+C:\Fuentes\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.pdb
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.dll.config
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BL_Servicios.pdb
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BE_Servicios.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DA_Servicios.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.v22.2.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Microsoft.Win32.Registry.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.AccessControl.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Security.Principal.Windows.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\WebDriver.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\BE_Servicios.pdb
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DA_Servicios.pdb
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.v22.2.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\WebDriver.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\David\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.AssemblyReference.cache
+C:\David\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.CoreCompileInputs.cache
+C:\David\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.csproj.CopyComplete
+C:\David\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.dll
+C:\David\IMPERIUM-Servicios\BL_Servicios\obj\Debug\BL_Servicios.pdb

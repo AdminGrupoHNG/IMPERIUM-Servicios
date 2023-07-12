@@ -1,0 +1,29 @@
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BE_Servicios\bin\Debug\BE_Servicios.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BE_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BE_Servicios\bin\Debug\BE_Servicios.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BE_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.csproj.AssemblyReference.cache
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.csproj.CoreCompileInputs.cache
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.dll
+C:\Users\ALVARO LAVERIANO\Documents\IMPERIUM\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BE_Servicios\bin\Debug\BE_Servicios.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BE_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.csproj.AssemblyReference.cache
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.csproj.CoreCompileInputs.cache
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.dll
+C:\Users\ALVARO LAVERIANO\OneDrive - GRUPO HNG CORPORACION S.A.C\Escritorio\Avances\Imperium\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.pdb
+C:\Fuentes\IMPERIUM-Servicios\BE_Servicios\bin\Debug\BE_Servicios.dll
+C:\Fuentes\IMPERIUM-Servicios\BE_Servicios\bin\Debug\BE_Servicios.pdb
+C:\Fuentes\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.csproj.AssemblyReference.cache
+C:\Fuentes\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.csproj.CoreCompileInputs.cache
+C:\Fuentes\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.dll
+C:\Fuentes\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.pdb
+C:\David\IMPERIUM-Servicios\BE_Servicios\bin\Debug\BE_Servicios.dll
+C:\David\IMPERIUM-Servicios\BE_Servicios\bin\Debug\BE_Servicios.pdb
+C:\David\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.csproj.AssemblyReference.cache
+C:\David\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.csproj.CoreCompileInputs.cache
+C:\David\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.dll
+C:\David\IMPERIUM-Servicios\BE_Servicios\obj\Debug\BE_Servicios.pdb
